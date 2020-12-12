@@ -1,0 +1,68 @@
+{
+    "dig down 1": {
+        "name": "Dig Down (1)",
+        "image": "down_1",
+        "type": "action",
+        "effect": "dig('down', 1);"
+    },
+    "dig left 1": {
+        "name": "Dig Left (1)",
+        "image": "left_1",
+        "type": "action",
+        "effect": "dig('left', 1);"
+    },
+    "dig right 1": {
+        "name": "Dig Right (1)",
+        "image": "right_1",
+        "type": "action",
+        "effect": "dig('right', 1);"
+    },
+    "dig down 2": {
+        "name": "Dig Down (2)",
+        "image": "down_2",
+        "type": "action",
+        "effect": "dig('down', 2);"
+    },
+    "dig left 2": {
+        "name": "Dig Left (2)",
+        "image": "left_2",
+        "type": "action",
+        "effect": "dig('left', 2);"
+    },
+    "dig right 2": {
+        "name": "Dig Right (2)",
+        "image": "right_2",
+        "type": "action",
+        "effect": "dig('right', 2);"
+    },
+    "dig down 3": {
+        "name": "Dig Down (3)",
+        "image": "down_3",
+        "type": "action",
+        "effect": "dig('down', 3);"
+    },
+    "dig left 3": {
+        "name": "Dig Left (3)",
+        "image": "left_3",
+        "type": "action",
+        "effect": "dig('left', 3);"
+    },
+    "dig right 3": {
+        "name": "Dig Right (3)",
+        "image": "right_3",
+        "type": "action",
+        "effect": "dig('right', 3);"
+    },
+    "shock": {
+        "name": "Shock",
+        "image": "shock",
+        "type": "action",
+        "effect": "shock();"
+    },
+    "magnet": {
+        "name": "Magnet",
+        "image": "magnet",
+        "type": "action",
+        "effect": "magnet();"
+    }
+}

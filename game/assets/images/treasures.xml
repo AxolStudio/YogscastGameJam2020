@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="healthpickup-sprites.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="coinBronze.png"	x="45"	y="0"	width="44"	height="44" frameX="-13" frameY="-14" frameWidth="70" frameHeight="70"/>
+	<SubTexture name="coinGold.png"	x="0"	y="45"	width="44"	height="44" frameX="-13" frameY="-14" frameWidth="70" frameHeight="70"/>
+	<SubTexture name="coinSilver.png"	x="0"	y="0"	width="44"	height="44" frameX="-13" frameY="-14" frameWidth="70" frameHeight="70"/>
+	<SubTexture name="energypickup.png"	x="90"	y="0"	width="20"	height="34" frameX="-22" frameY="-15" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="gem1.png"	x="89"	y="45"	width="35"	height="43" frameX="-15" frameY="-18" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="gem2.png"	x="86"	y="89"	width="35"	height="43" frameX="-15" frameY="-18" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="gem3.png"	x="45"	y="89"	width="40"	height="43" frameX="-12" frameY="-18" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="gem4.png"	x="45"	y="45"	width="43"	height="43" frameX="-10" frameY="-18" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="healthpickup.png"	x="0"	y="90"	width="28"	height="24" frameX="-18" frameY="-20" frameWidth="64" frameHeight="64"/>
+</TextureAtlas>

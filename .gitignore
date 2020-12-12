@@ -1,0 +1,4 @@
+game/export/
+game/.vscode
+game/checkstyle.json
+game/hxformat.json

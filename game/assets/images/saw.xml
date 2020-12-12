@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="saw_move-sprites.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="saw.png"	x="59"	y="0"	width="58"	height="58" frameX="-3" frameY="-3" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="saw_dead.png"	x="0"	y="59"	width="58"	height="58" frameX="-3" frameY="-3" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="saw_hurt.png"	x="0"	y="0"	width="58"	height="58" frameX="-3" frameY="-3" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="saw_move.png"	x="59"	y="59"	width="56"	height="56" frameX="-4" frameY="-4" frameWidth="64" frameHeight="64"/>
+</TextureAtlas>

@@ -1,0 +1,15 @@
+{
+    "starting": {
+        "dig down 1": 4,
+        "dig down 2": 2,
+        "dig down 3": 1,
+        "dig left 1": 4,
+        "dig left 2": 2,
+        "dig left 3": 1,
+        "dig right 1": 4,
+        "dig right 2": 2,
+        "dig right 3": 1,
+        "shock": 6,
+        "magnet": 3
+    }
+}

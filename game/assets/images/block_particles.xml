@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="particleBrick1a-sprites.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="particleBrick1a.png"	x="22"	y="0"	width="19"	height="14" frameX="-0" frameY="-0" frameWidth="19" frameHeight="14"/>
+	<SubTexture name="particleBrick1b.png"	x="0"	y="22"	width="21"	height="21" frameX="-0" frameY="-0" frameWidth="21" frameHeight="21"/>
+	<SubTexture name="particleBrick2a.png"	x="22"	y="15"	width="19"	height="14" frameX="-0" frameY="-0" frameWidth="19" frameHeight="14"/>
+	<SubTexture name="particleBrick2b.png"	x="0"	y="0"	width="21"	height="21" frameX="-0" frameY="-0" frameWidth="21" frameHeight="21"/>
+</TextureAtlas>

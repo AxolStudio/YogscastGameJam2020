@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="card_right_2-sprites.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="card_back.png"	x="423"	y="0"	width="140"	height="195" frameX="-0" frameY="-0" frameWidth="140" frameHeight="195"/>
+	<SubTexture name="card_discard.png"	x="282"	y="392"	width="140"	height="195" frameX="-0" frameY="-0" frameWidth="140" frameHeight="195"/>
+	<SubTexture name="card_down_1.png"	x="282"	y="196"	width="140"	height="195" frameX="-0" frameY="-0" frameWidth="140" frameHeight="195"/>
+	<SubTexture name="card_down_2.png"	x="564"	y="0"	width="140"	height="195" frameX="-0" frameY="-0" frameWidth="140" frameHeight="195"/>
+	<SubTexture name="card_down_3.png"	x="141"	y="392"	width="140"	height="195" frameX="-0" frameY="-0" frameWidth="140" frameHeight="195"/>
+	<SubTexture name="card_left_1.png"	x="141"	y="196"	width="140"	height="195" frameX="-0" frameY="-0" frameWidth="140" frameHeight="195"/>
+	<SubTexture name="card_left_2.png"	x="141"	y="0"	width="140"	height="195" frameX="-0" frameY="-0" frameWidth="140" frameHeight="195"/>
+	<SubTexture name="card_left_3.png"	x="0"	y="392"	width="140"	height="195" frameX="-0" frameY="-0" frameWidth="140" frameHeight="195"/>
+	<SubTexture name="card_magnet.png"	x="0"	y="196"	width="140"	height="195" frameX="-0" frameY="-0" frameWidth="140" frameHeight="195"/>
+	<SubTexture name="card_right_1.png"	x="0"	y="0"	width="140"	height="195" frameX="-0" frameY="-0" frameWidth="140" frameHeight="195"/>
+	<SubTexture name="card_right_2.png"	x="282"	y="0"	width="140"	height="195" frameX="-0" frameY="-0" frameWidth="140" frameHeight="195"/>
+	<SubTexture name="card_right_3.png"	x="423"	y="392"	width="140"	height="195" frameX="-0" frameY="-0" frameWidth="140" frameHeight="195"/>
+	<SubTexture name="card_shock.png"	x="423"	y="196"	width="140"	height="195" frameX="-0" frameY="-0" frameWidth="140" frameHeight="195"/>
+</TextureAtlas>

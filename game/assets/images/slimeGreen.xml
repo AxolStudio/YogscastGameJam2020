@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="slimeGreen_move-sprites.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="slimeGreen.png"	x="45"	y="41"	width="44"	height="31" frameX="-10" frameY="-33" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="slimeGreen_dead.png"	x="53"	y="0"	width="44"	height="31" frameX="-10" frameY="-33" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="slimeGreen_hit.png"	x="0"	y="0"	width="52"	height="12" frameX="-6" frameY="-52" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="slimeGreen_hurt.png"	x="0"	y="41"	width="44"	height="31" frameX="-10" frameY="-33" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="slimeGreen_move.png"	x="0"	y="13"	width="52"	height="27" frameX="-6" frameY="-37" frameWidth="64" frameHeight="64"/>
+</TextureAtlas>
